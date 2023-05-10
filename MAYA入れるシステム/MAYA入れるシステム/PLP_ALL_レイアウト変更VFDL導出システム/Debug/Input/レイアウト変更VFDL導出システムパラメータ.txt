@@ -1,0 +1,7 @@
+EH_MASA
+1
+64512
+C:\EH_MASA\Vfdl
+C:\EH_MASA\Data
+C:\EH_MASA\Vfdl
+C:\EH_MASA\Evaluation

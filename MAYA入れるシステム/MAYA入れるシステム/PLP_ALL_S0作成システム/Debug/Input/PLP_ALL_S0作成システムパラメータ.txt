@@ -1,0 +1,5 @@
+EH_MASA
+1								
+0								
+C:\EH_MASA\Data
+C:\EH_MASA\Data			

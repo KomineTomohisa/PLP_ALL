@@ -1,0 +1,8 @@
+triton_TK
+C:\Users\ie\Desktop\triton_TK\Data
+triton_TK_組立順序_NOS
+C:\Users\ie\Desktop\triton_TK\Data\triton_TK_両手組付けリスト.csv
+C:\Users\ie\Desktop\triton_TK\Data
+1
+-110
+11

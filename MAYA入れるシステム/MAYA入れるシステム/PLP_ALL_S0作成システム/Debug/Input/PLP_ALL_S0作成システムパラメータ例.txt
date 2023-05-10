@@ -1,0 +1,5 @@
+LEGO_test←製品名
+1←ファイルの導出形式								
+0←組立順序ファイルの最大番号								
+C:\LEGO_test\Data←INPUTのパス
+C:\LEGO_test\Data←OUTPUTのパス			

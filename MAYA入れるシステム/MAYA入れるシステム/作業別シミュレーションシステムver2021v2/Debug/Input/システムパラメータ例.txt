@@ -1,0 +1,8 @@
+680_test_0413     　　　　　　　　　　　　　←製品名　　　                            
+1　　　　　　　　　　　　　　　　　　　　　 ←ファイルの導出形式（１：網羅、２：部品群、３：分解）
+0                                           ←組立順序ファイルの最大番号
+C:\Users\ie\Desktop\680_test_0413\Data　　　←INPUTするフォルダのパス
+C:\Users\ie\Desktop\680_test_0413\Vfdl　　　←OUTPUTするフォルダのパス(VFDL用)
+C:\Users\ie\Desktop\680_test_0413\Vfdl　　　←OUTPUTするフォルダのパス(評価用)
+
+※変化のパターンリストはシステムが入っているフォルダのこのメモ帳がある場所と同じ場所に入れておいてください。
