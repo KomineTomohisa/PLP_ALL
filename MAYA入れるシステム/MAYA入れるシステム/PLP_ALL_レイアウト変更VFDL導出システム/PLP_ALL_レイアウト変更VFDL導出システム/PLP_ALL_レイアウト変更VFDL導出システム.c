@@ -1688,7 +1688,7 @@ void Read_Junjo(int J)
 //組付け位置変更用関数
 void Kumituke_Position(int STEP)
 {
-	double temp;
+	double temp = 0.0;
 	int tempJig;
 
 	Beforejignum = 2 + R_H.PA + R_H.T;
